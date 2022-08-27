@@ -15,7 +15,7 @@ This voltmeter can read-only DC voltage from 0-5 volt and Display .
 
 <p align="center">
 <a href="./LICENSE.md">
-<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-AC-Dimmer?style=badge">
+<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Voltmeter.4?style=badge">
 </a>
 <a href="https://www.mcselec.com/">
 <img alt="BASCOM_AVR" src="https://img.shields.io/badge/BASCOM_AVR-2.0.8.5-badcff.svg">
